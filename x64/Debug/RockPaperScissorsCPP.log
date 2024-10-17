@@ -1,2 +1,3 @@
 ﻿  RockPaperScissorsCPP.cpp
+C:\Users\Braden\Documents\Projects\C++\RockPaperScissorsCPP\RockPaperScissorsCPP\RockPaperScissorsCPP.cpp(24,1): warning C4715: 'getChoiceAsString': not all control paths return a value
   RockPaperScissorsCPP.vcxproj -> C:\Users\Braden\Documents\Projects\C++\RockPaperScissorsCPP\x64\Debug\RockPaperScissorsCPP.exe
